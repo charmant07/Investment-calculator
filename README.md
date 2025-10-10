@@ -1,7 +1,15 @@
-# 💰 Investment Calculator (Python)
+<div align="center">
 
-A simple Python program that calculates **compound investment growth** with optional **monthly contributions** and a yearly breakdown.
+# 💰 Investment Calculator
 
+[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/charmant07/investment-calculator?color=green)](https://github.com/charmant07/investment-calculator)
+[![Stars](https://img.shields.io/github/stars/charmant07/investment-calculator?style=social)](https://github.com/charmant07/investment-calculator/stargazers)
+
+💻 A simple Python tool to calculate compound investment growth with optional monthly contributions and yearly breakdown.
+
+</div>
 ---
 
 ## 🚀 Features
