@@ -7,7 +7,7 @@
 [![GitHub Repo Size](https://img.shields.io/github/repo-size/charmant07/investment-calculator?color=green)](https://github.com/charmant07/investment-calculator)
 [![Stars](https://img.shields.io/github/stars/charmant07/investment-calculator?style=social)](https://github.com/charmant07/investment-calculator/stargazers)
 
-💻 A simple Python tool to calculate compound investment growth with optional monthly contributions and yearly breakdown.
+💻 An Advanced featured Python tool to calculate compound investment growth with optional monthly contributions and yearly graph breakdown.
 
 </div>
 ---
@@ -17,7 +17,7 @@
 - Option for monthly contributions.
 - Displays yearly growth breakdown.
 - Handles invalid inputs gracefully.
-
+- matplotlib feature for graphical representation 
 ---
 
 ## 🧮 Formula Used
